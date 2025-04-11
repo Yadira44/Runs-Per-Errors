@@ -1,0 +1,33 @@
+#Data Summary:
+
+Total_2019_errors = 2936
+Total_2019_runs = 917
+2019 Runs_Per_Errors = 31.23 %
+
+Total_2020_errors = 1100
+Total_2020_runs = 327
+2020 Runs_Per_Errors = 29.73 %
+
+Total_2021_errors = 2657
+Total_2021_runs = 880
+2021 Runs_Per_Errors = 33.12 %
+
+Total_2022_errors = 2603
+Total_2022_runs = 836
+2022 Runs_Per_Errors = 31.46 %
+
+Total_2023_errors = 2553
+Total_2023_runs = 808
+2023 Runs_Per_Errors = 31.65 %
+
+Total_2024_errors = 2632
+Total_2024_runs = 869
+2024 Runs_Per_Errors = 33.02 %
+
+
+
+### Overview
+
+Runs_Per_Errors Average throughout 2019-2024: 31.70%
+
+This means runs are scored in the same inning as errors 31.70% of the time. 
