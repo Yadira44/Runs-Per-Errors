@@ -1,3 +1,5 @@
+# Code I Used To Gather Info.
+
 # Part 1: Subset 2023 Texas Rangers Batteam & Errors
 
 Texas_2023_Rangers <- subset(subset_2023_df, pitteam == "TEX")
