@@ -13,3 +13,12 @@ Total 2023 Giants Errors (FanGraphs): 117
 SF_2023_errors = 117
 SF_2023_runs = 41
 Runs_Per_Errors = 35.04%
+
+Looking at the data, the Rangers actually have a higher Runs / Errors percentage than the Giants (35.04%). 
+The Rangers had an elite defensive team in 2023 so seeing that they let 37.1% of runs score after committing errors, this can be explained by multiple reasons. 
+The most obvious reason is that since they were an elite defensive team that committed the least errors that year, the sample size makes the errors statistically heavier. 
+This means that even with just a few “bad luck” errors, the percentage could go up just from that. 
+The Giants’ larger amount of errors might be more evenly distributed, diluting the overall run impact of each one. 
+Context matters and this can be another reason why the results are the way they are. 
+Errors committed by the Rangers could have happened during a high-risk situation where there were players in scoring position which made it easier for runs to be scored. 
+The pitcher could have also just been having a bad outage which resulted in those runs being scored, especially if they occurred during a third time through the order.
