@@ -1,1 +1,15 @@
+# Data Summary
 
+2023 Texas Rangers:
+
+Total 2023 Rangers Errors (FanGraphs): 57
+Texas_2023_errors = 62
+Texas_2023_runs = 23
+Runs_Per_Errors = 37.1%
+
+2023 San Francisco Giants:
+
+Total 2023 Giants Errors (FanGraphs): 117
+SF_2023_errors = 117
+SF_2023_runs = 41
+Runs_Per_Errors = 35.04%
