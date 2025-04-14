@@ -9,6 +9,6 @@ Gather and Calculate information for all of MLB throughout 2019-2023
 ### Part 2: 
 Gather and Calculate information for the teams who committed the most and least errors in the year 2023
 
-### Raw Data 
+### Raw Data:
 I used CSV downloads from Retrosheet to gather my data for this project.
 https://www.retrosheet.org/downloads/othercsvs.html
