@@ -6,7 +6,7 @@ This is a repository part of my Error Project. Calculates Runs / Errors when an 
 ### Part 1: 
 Gather and Calculate information for all of MLB throughout 2019-2023
 
-### Part 2: 
+### Part 1.5: 
 Gather and Calculate information for the teams who committed the most and least errors in the year 2023
 
 ### Raw Data:
